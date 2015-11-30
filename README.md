@@ -49,7 +49,7 @@ This is my personal  list of current AI papers I'm reading/ have yet to read. Ju
 
 [ImageNet Classification](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) - popular paper
 
-[A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v1.pdf) - popular papeer
+[A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v1.pdf) - popular paper
 
 [Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) - unsupervised learning to generate images
 
